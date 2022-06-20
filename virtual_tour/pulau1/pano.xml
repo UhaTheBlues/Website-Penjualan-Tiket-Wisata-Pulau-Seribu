@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.9" apprev="17983" start="node1">
+  <panorama hideabout="1" id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node1" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0782.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:16" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-5.81" description="" id="Point01" title="" target="130.1/0.0/70.0" skinid="ht_node" pan="-342.36" url="{node2}"/>
+      <hotspot tilt="-1.44" description="" id="Point02" title="" target="-1.2/0.7/70.0" skinid="ht_node" pan="-15.89" url="{node3}"/>
+      <hotspot tilt="-5.01" description="" id="Point03" title="" target="-158.2/-10.5/70.0" skinid="ht_node" pan="-310.35" url="{node8}"/>
+      <hotspot tilt="-2.99" description="" id="Point04" title="" target="-80.4/-16.3/70.0" skinid="ht_node" pan="-60.11" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node2" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0784.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:20" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-11.1" description="" id="Point01" title="" target="-4.3/-3.5/70.0" skinid="ht_node" pan="-10.73" url="{node3}"/>
+      <hotspot tilt="-4.71" description="" id="Point01" title="" target="13.9/-11.3/70.0" skinid="ht_node" pan="-100.2" url="{node1}"/>
+      <hotspot tilt="-2.08" description="" id="Point03" title="" target="-166.5/-5.0/70.0" skinid="ht_node" pan="-200.37" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node3" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0787.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:23" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-1.01" description="" id="Point01" title="" target="-96.4/-10.3/70.0" skinid="ht_node" pan="-198.73" url="{node4}"/>
+      <hotspot tilt="1.2" description="" id="Point02" title="" target="140.6/-15.6/70.0" skinid="ht_node" pan="-130.08" url="{node6}"/>
+      <hotspot tilt="-3.32" description="" id="Point03" title="" target="2.5/-13.5/70.0" skinid="ht_node" pan="-291.04" url="{node1}"/>
+      <hotspot tilt="-7.64" description="" id="Point04" title="" target="132.6/-18.0/70.0" skinid="ht_node" pan="-346.24" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node4" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0788.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:24" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-6.94" description="" id="Point01" title="" target="-30.5/-13.7/70.0" skinid="ht_node" pan="-91.22" url="{node5}"/>
+      <hotspot tilt="1.09" description="" id="Point02" title="" target="158.7/-10.7/70.0" skinid="ht_node" pan="-324.03" url="{node6}"/>
+      <hotspot tilt="-6.29" description="" id="Point03" title="" target="0.0/0.0/70.0" skinid="ht_node" pan="-238.87" url="{node3}"/>
+      <hotspot tilt="-8.33" description="" id="Point04" title="" target="28.8/-10.3/70.0" skinid="ht_node" pan="-200.8" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node5" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0789.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:25" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-3.47" description="" id="Point01" title="" target="118.3/-13.7/70.0" skinid="ht_node" pan="-258.22" url="{node6}"/>
+      <hotspot tilt="-12.76" description="" id="Point02" title="" target="" skinid="ht_node" pan="-224" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node6" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0790.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:26" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-4.82" description="" id="Point01" title="" target="-64.2/-21.0/70.0" skinid="ht_node" pan="-246.22" url="{node7}"/>
+      <hotspot tilt="-6.23" description="" id="Point02" title="" target="" skinid="ht_node" pan="-154.44" url="{node5}"/>
+      <hotspot tilt="-8.11" description="" id="Point03" title="" target="" skinid="ht_node" pan="-178.86" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node7" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0793.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:27" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-4.23" description="" id="Point01" title="" target="33.7/-16.0/70.0" skinid="ht_node" pan="-66.98" url="{node8}"/>
+      <hotspot tilt="-4.29" description="" id="Point02" title="" target="63.3/-9.7/70.0" skinid="ht_node" pan="-43.73" url="{node2}"/>
+      <hotspot tilt="-3.74" description="" id="Point03" title="" target="116.4/-16.7/70.0" skinid="ht_node" pan="-287.68" url="{node6}"/>
+      <hotspot tilt="-3.25" description="" id="Point04" title="" target="27.3/-3.7/70.0" skinid="ht_node" pan="-96.6" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node8" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0794.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:31" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-3.96" description="" id="Point01" title="" target="8.5/-10.7/70.0" skinid="ht_node" pan="-227.29" url="{node9}"/>
+      <hotspot tilt="-5.66" description="" id="Point02" title="" target="120.2/-11.0/70.0" skinid="ht_node" pan="-339.49" url="{node2}"/>
+      <hotspot tilt="-3.66" description="" id="Point03" title="" target="52.6/-7.7/70.0" skinid="ht_node" pan="-11.51" url="{node1}"/>
+      <hotspot tilt="-3" description="" id="Point04" title="" target="165.6/-10.3/70.0" skinid="ht_node" pan="-148.65" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node9" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0795.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:32" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-0.36" description="" id="Point01" title="" target="167.8/-12.7/70.0" skinid="ht_node" pan="-342.84" url="{node10}"/>
+      <hotspot tilt="-5.75" description="" id="Point02" title="" target="93.9/-7.3/70.0" skinid="ht_node" pan="-269.86" url="{node8}"/>
+      <hotspot tilt="-5.98" description="" id="Point03" title="" target="-90.2/-5.3/70.0" skinid="ht_node" pan="-194.54" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node10" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0799.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:35" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-8.45" description="" id="Point01" title="" target="16.0/-9.5/70.0" skinid="ht_node" pan="-82.27" url="{node11}"/>
+      <hotspot tilt="-2.02" description="" id="Point02" title="" target="92.4/-2.5/70.0" skinid="ht_node" pan="-274.51" url="{node9}"/>
+      <hotspot tilt="-5.53" description="" id="Point03" title="" target="129.9/-9.8/70.0" skinid="ht_node" pan="-320.67" url="{node8}"/>
+      <hotspot tilt="-3.32" description="Pulau Kelor merupakan gugusan pulau yang secara administratif berada di Kabupaten Administratif Kepulauan Seribu, Jakarta. Letaknya berdekatan dengan gugusan yang sama dengan Pulau Petandan Besar, Pulau Petondan Kecil, Pulau Kelapa, Pulau Onrust, Pulau Cipir, dan Pulau Bidadari. Sebagai peninggalan masa kolonial Belanda, tentu pulau yang luasnya diibaratkan ‘sebesar daun kelor’ yakni 28 hektar memiliki nilai sejarah yang tinggi. Pulau Kelor dulu dinamakan Pemerintah Hindia Belanda sebagai Pulau Kerkhof yang artinya kuburan. Kisah kelam lagi datang dari tahun 1883 ketika gunung Krakatau meletus. Terjangan tsunami yang dihasilkan dari letusan tersebut membuat Benteng Martello rusak parah.&#xa;" id="Point04" title="Pulau Kelor" target="" skinid="ht_info" pan="-199.04" url=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node11" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0802.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:37" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-4.06" description="" id="Point01" title="" target="1.7/-1.3/70.0" skinid="ht_node" pan="-338.46" url="{node12}"/>
+      <hotspot tilt="-11.03" description="" id="Point02" title="" target="156.5/-11.5/70.0" skinid="ht_node" pan="-176.91" url="{node10}"/>
+      <hotspot tilt="-5.98" description="" id="Point03" title="" target="59.4/-11.9/70.0" skinid="ht_node" pan="-217.82" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node12" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0803.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:38" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-2.19" description="" id="Point01" title="" target="69.2/-11.0/70.0" skinid="ht_node" pan="-318.22" url="{node14}"/>
+      <hotspot tilt="-3.05" description="" id="Point02" title="" target="17.6/-5.6/70.0" skinid="ht_node" pan="-73.01" url="{node11}"/>
+      <hotspot tilt="-4.3" description="" id="Point03" title="" target="56.1/-7.8/70.0" skinid="ht_node" pan="-111.03" url="{node8}"/>
+      <hotspot tilt="-7.6" description="Benteng Martello merupakan benteng yang dibangun VOC untuk menghadapi serangan Portugis di abad ke-17. Benteng ini juga memiliki nama lain Benteng Menara. Belanda membangun benteng berbentuk bundar dan tinggi itu pada tahun 1850 sebagai bagian dari sistem pertahanan laut Kota Batavia. Menurut pemandu wisata Taman Arkeologi Onrust Rosadi, Benteng Martello dibangun oleh para pekerja Indonesia yang merupakan tahanan Belanda. “Tahu gak yang buat benteng ini tuh bukan Belanda aslinya, yang bangun orang-orang Indonesia, leluhur-leluhur kita dulu, mereka ditahan di sini dan disuruh bangun benteng sama Belanda,” kata Rosadi sembari menceritakan kisah pilu pembangunan Benteng Martello kepada wisatawan yang sebagian besar pelajar. Tinggi benteng sekitar 15 meter. Dengan ketinggian ini dan melihat bekas struktur yang bundar, dapat diperkirakan benteng tersebut bisa membalas menembaki musuh dengan Meriam yang bisa bermanuver 360 derajat." id="Point04" title="Benteng Martello" target="" skinid="ht_info" pan="-357.9" url=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node14">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node14" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0807.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:38" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-4.9" description="" id="Point01" title="" target="77.0/-1.3/70.0" skinid="ht_node" pan="-321.54" url="{node15}"/>
+      <hotspot tilt="-2.72" description="" id="Point02" title="" target="6.8/0.0/70.0" skinid="ht_node" pan="-43.15" url="{node12}"/>
+      <hotspot tilt="-6.82" description="Benteng Martello merupakan benteng yang dibangun VOC untuk menghadapi serangan Portugis di abad ke-17. Benteng ini juga memiliki nama lain Benteng Menara. Belanda membangun benteng berbentuk bundar dan tinggi itu pada tahun 1850 sebagai bagian dari sistem pertahanan laut Kota Batavia. Menurut pemandu wisata Taman Arkeologi Onrust Rosadi, Benteng Martello dibangun oleh para pekerja Indonesia yang merupakan tahanan Belanda.&#xa;“Tahu gak yang buat benteng ini tuh bukan Belanda aslinya, yang bangun orang-orang Indonesia, leluhur-leluhur kita dulu, mereka ditahan di sini dan disuruh bangun benteng sama Belanda,” kata Rosadi sembari menceritakan kisah pilu pembangunan Benteng Martello. Tinggi benteng sekitar 15 meter. Dengan ketinggian ini dan melihat bekas struktur yang bundar, dapat diperkirakan benteng tersebut bisa membalas menembaki musuh dengan Meriam yang bisa bermanuver 360 derajat." id="Point04" title="Benteng Martello" target="" skinid="ht_info" pan="-21.19" url=""/>
+      <hotspot tilt="1.01" description="Benteng Martello merupakan benteng yang dibangun VOC untuk menghadapi serangan Portugis di abad ke-17. Benteng ini juga memiliki nama lain Benteng Menara. Belanda membangun benteng berbentuk bundar dan tinggi itu pada tahun 1850 sebagai bagian dari sistem pertahanan laut Kota Batavia. Menurut pemandu wisata Taman Arkeologi Onrust Rosadi, Benteng Martello dibangun oleh para pekerja Indonesia yang merupakan tahanan Belanda. “Tahu gak yang buat benteng ini tuh bukan Belanda aslinya, yang bangun orang-orang Indonesia, leluhur-leluhur kita dulu, mereka ditahan di sini dan disuruh bangun benteng sama Belanda,” kata Rosadi sembari menceritakan kisah pilu pembangunan Benteng Martello kepada wisatawan yang sebagian besar pelajar. Tinggi benteng sekitar 15 meter. Dengan ketinggian ini dan melihat bekas struktur yang bundar, dapat diperkirakan benteng tersebut bisa membalas menembaki musuh dengan Meriam yang bisa bermanuver 360 derajat." customimageheight="99" distance3D="840.109" id="Point05" title="Benteng Martello" target="_blank" customimage="media/benteng.png" customimagewidth="147" skinid="ht_image" pan="-20.94" url="images/benteng.png" use3D="0" fov="10"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node15">
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node15" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0810.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:39" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-13.56" description="" id="Point01" title="" target="102.7/0.2/70.0" skinid="ht_node" pan="-224.37" url="{node16}"/>
+      <hotspot tilt="2.5" description="" id="Point02" title="" target="2.8/0.0/70.0" skinid="ht_node" pan="-350.44" url="{node14}"/>
+      <hotspot tilt="-0.48" description="Benteng Martello merupakan benteng yang dibangun VOC untuk menghadapi serangan Portugis di abad ke-17. Benteng ini juga memiliki nama lain Benteng Menara. Belanda membangun benteng berbentuk bundar dan tinggi itu pada tahun 1850 sebagai bagian dari sistem pertahanan laut Kota Batavia. Menurut pemandu wisata Taman Arkeologi Onrust Rosadi, Benteng Martello dibangun oleh para pekerja Indonesia yang merupakan tahanan Belanda. “Tahu gak yang buat benteng ini tuh bukan Belanda aslinya, yang bangun orang-orang Indonesia, leluhur-leluhur kita dulu, mereka ditahan di sini dan disuruh bangun benteng sama Belanda,” kata Rosadi sembari menceritakan kisah pilu pembangunan Benteng Martello kepada wisatawan yang sebagian besar pelajar. Tinggi benteng sekitar 15 meter. Dengan ketinggian ini dan melihat bekas struktur yang bundar, dapat diperkirakan benteng tersebut bisa membalas menembaki musuh dengan Meriam yang bisa bermanuver 360 derajat." id="Point04" title="Benteng Martello" target="" skinid="ht_info" pan="-310.99" url=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node16">
+    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" leveltilesize="510" width="1440" levelingroll="0" levelbiashidpi="1.000" levelbias="0.400" height="1440">
+      <level predecode="0" width="1440" preload="0" height="1440"/>
+      <level predecode="0" width="720" preload="0" height="720"/>
+      <level predecode="1" width="360" preload="1" height="360"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1" pan="360" fov="120"/>
+    </view>
+    <userdata description="" customnodeid="" nodeid="node16" author="" latitude="" longitude="" title="DCIM\100GOPRO\GS__0813.JPG" copyright="" heading="0" info="" tags="_LR" datetime="26/05/2021 9:40" source="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" borderradius="1" bordercolor="0x000000" width="180" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderalpha="1" border="1" backgroundalpha="1" textcolor="0x000000" enabled="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot tilt="-3.92" description="" id="Point01" title="" target="68.3/4.0/70.0" skinid="ht_node" pan="-284.63" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="2" zoomout="0" blendcolor="0x000000" zoomfov="30" softedge="100" zoomspeed="1" zoomoutpause="1" enabled="1" type="crossdissolve" blendtime="0.5"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedkeyboardzoom="0" hideabout="1" simulatemass="1" rubberband="0" dblclickfullscreen="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" sensitivity="8" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" customnodeid="" nodeid="master" author="" latitude="" longitude="" title="" copyright="" heading="0" info="" tags="" datetime="" source="" comment=""/>
+  </masternode>
+</tour>
